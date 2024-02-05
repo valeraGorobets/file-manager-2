@@ -1,0 +1,16 @@
+{
+	"name": "file-manager",
+	"version": "1.0.0",
+	"description": "",
+	"engines": {
+		"node": ">=20.0.0"
+	},
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node index.js",
+		"dev": "npm run start -- --username=valera"
+	},
+	"author": "",
+	"license": "ISC"
+}
